@@ -1,6 +1,6 @@
 <h1>Frontend Interview Questions</h1>
 
-<h2><a href="#client-side-routing"> What is client side routing?<a/></h2>
+<h3><a href="#client-side-routing"> What is client side routing?<a/></h3>
 
 <div id="client-side-routing">
 <h3> Client Side Routing </h3>
