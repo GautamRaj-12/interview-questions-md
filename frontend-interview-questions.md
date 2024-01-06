@@ -1,7 +1,7 @@
 <h1>Frontend Interview Questions</h1>
 
-<h2>What is client side routing?</h2>
-<h3>Client-side routing refers to the process of handling navigation and page changes on a website or web application directly within the user's browser, without requiring a full page reload from the server. In traditional server-side routing, when a user clicks on a link or enters a URL, the browser sends a request to the server, and the server responds by sending back a completely new HTML page.
+<h2><a href="#client-side-routing"> What is client side routing?<a/></h2>
+<h3 id="client-side-routing">Client-side routing refers to the process of handling navigation and page changes on a website or web application directly within the user's browser, without requiring a full page reload from the server. In traditional server-side routing, when a user clicks on a link or enters a URL, the browser sends a request to the server, and the server responds by sending back a completely new HTML page.
 
 In contrast, client-side routing relies on JavaScript to dynamically update the content of the page without requesting a new page from the server. This is typically achieved using a JavaScript framework or library, such as React, Angular, or Vue.js. These frameworks enable the creation of single-page applications (SPAs) where the initial HTML, CSS, and JavaScript are loaded once, and subsequent changes to the content are managed by the client-side code.
 
